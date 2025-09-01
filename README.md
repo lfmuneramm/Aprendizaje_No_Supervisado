@@ -43,5 +43,5 @@ El propósito de este repositorio es:
 ---
 
 ## ✍️ Autor
-Creado por [Tu Nombre]  
+Creado por Luis Felipe Múnera  
 > Proyecto de aprendizaje y práctica en **Machine Learning**.
